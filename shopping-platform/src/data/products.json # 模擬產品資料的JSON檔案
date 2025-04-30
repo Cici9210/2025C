@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "產品A",
+      "price": 199.99,
+      "description": "這是一個高品質的產品A，適合各種需求。",
+      "image": "assets/images/productA.jpg"
+    },
+    {
+      "id": 2,
+      "name": "產品B",
+      "price": 299.99,
+      "description": "產品B擁有卓越的性能和設計。",
+      "image": "assets/images/productB.jpg"
+    },
+    {
+      "id": 3,
+      "name": "產品C",
+      "price": 399.99,
+      "description": "產品C是市場上最受歡迎的選擇之一。",
+      "image": "assets/images/productC.jpg"
+    },
+    {
+      "id": 4,
+      "name": "產品D",
+      "price": 499.99,
+      "description": "產品D提供無與倫比的價值和品質。",
+      "image": "assets/images/productD.jpg"
+    },
+    {
+      "id": 5,
+      "name": "產品E",
+      "price": 599.99,
+      "description": "產品E是專為追求卓越的消費者設計的。",
+      "image": "assets/images/productE.jpg"
+    }
+  ]
+}
